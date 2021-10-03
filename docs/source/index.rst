@@ -6,8 +6,7 @@ It uses the same cryptographic algorithms to sign messages as bitcoin uses to si
 Because each message is signed by the source, the followers may verify the authenticity of the message regardless of 
 how this message was delivered.
 
-Check out the :doc:`faq` section for further information, including
-how to :ref:`installation` .
+Check out the :doc:`faq` section for further information
 
 .. note::
 
@@ -19,4 +18,3 @@ Contents
 .. toctree::
 
    faq
-   api
