@@ -1,13 +1,13 @@
-Welcome to Lumache's documentation!
+Welcome to Signed documentation!
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+**Signed** is a twitter-like social network owned and controlled by its users.
+It uses the same cryptographic algorithms to sign messages as bitcoin uses to sign transactions.
+Because each message is signed by the source, the followers may verify the authenticity of the message regardless of 
+how this message was delivered.
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Check out the :doc:`faq` section for further information, including
+how to :ref:`installation` .
 
 .. note::
 
@@ -18,5 +18,5 @@ Contents
 
 .. toctree::
 
-   usage
+   faq
    api
